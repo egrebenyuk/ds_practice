@@ -4,8 +4,8 @@
 
 ### Create data story and visualization on the municipal finance data
 
-<u>Inspiration from Emily and Sienna:</u>
-We’ve been hoping to do a data story and visualization on some of the municipal finance data. The datasets we are looking at break down expenditures per student by district, and we’d like to visualize what those expenditures look like across districts. 
+<b>Inspiration from Emily and Sienna:</b>
+<br>We’ve been hoping to do a data story and visualization on some of the municipal finance data. The datasets we are looking at break down expenditures per student by district, and we’d like to visualize what those expenditures look like across districts. 
 <p>You can find datasets <a href="http://www.doe.mass.edu/finance/statistics/ppx.html">here</a>.
 <p>We’d like to visualize these datasets in a way similar to:
 <ul>
