@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to repository for Data Science Practice meetup (PyLadies Boston).
+Welcome to repository for Data Science Practice meetup (Boston).
 
 Data science-enthusiasts, data science-wannabes and everyone who is interested:
 <br>Join and have some fun working together on Python-based data science projects! Choose your own favorite project and get support from others who are passionate about data science. 
