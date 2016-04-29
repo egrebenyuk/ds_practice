@@ -1,4 +1,4 @@
-## Online resources and articles about machine learning
+## Online resources and articles about Machine Learning
 
 ---
 

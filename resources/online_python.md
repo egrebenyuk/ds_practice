@@ -1,4 +1,4 @@
-## Online resources and articles about python
+## Online resources and articles about Python
 
 ---
 

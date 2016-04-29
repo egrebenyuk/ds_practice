@@ -1,4 +1,4 @@
-## Online resources and articles about data science
+## Online resources and articles about Data Science
 
 ---
 
