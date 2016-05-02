@@ -10,12 +10,12 @@ javac WordCount.java
 jar cvfe WordCount.jar WordCount *.class
 
 ### upload
-hadoop fs -copyFromLocal book.txt hdfs:/inputA
-hadoop fs -ls hdfs:/inputA
+hadoop fs -copyFromLocal book.txt hdfs:/input
+hadoop fs -ls hdfs:/input
 
 ### count
-hadoop jar WordCount.jar hdfs:/inputA hdfs:/outputA
-hadoop fs -ls hdfs:/outputA
+hadoop jar WordCount.jar hdfs:/input hdfs:/output
+hadoop fs -ls hdfs:/output
 
 ### download result
-hadoop fs -copyToLocal hdfs:/outputA/part-00000 
+hadoop fs -copyToLocal hdfs:/output/part-00000 
