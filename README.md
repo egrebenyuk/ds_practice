@@ -12,6 +12,9 @@ Data science-enthusiasts, data science-wannabes and everyone who is interested:
 ### You don't know where to start?
 Go <a href="./help/how_to_work_here.md">here</a> to look how to fork this repository.
 
+### What do you need to set up on your computer?
+Take a look at <a href="./help/install.md">installation instructions</a>.
+
 ### New to Data Science?
 Check out Titanic dataset from Kaggle competition <a href="./projects/kaggle_titanic/README.md">here</a>.
 
