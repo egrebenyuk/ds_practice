@@ -21,4 +21,5 @@ Go <a href="./projects">here</a> and collaborate with us for the Commonwealth of
 ### Want something more complicated?
 Go <a href="./resources/open_datasets.md">here</a> to find open data sources. Choose any dataset you want to work on and run your project.
 
+### Rules
 <p>Our <a href="./help/code_of_conduct.md">Code of Conduct</a> is for everyone participating Data Science Practice group.

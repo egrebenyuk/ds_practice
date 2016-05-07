@@ -32,7 +32,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via group lead. All reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via our group lead. All reports will be handled with discretion. In your report please include:
 <ul>
   <li>Your contact information.</li>
   <li>Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.</li>
