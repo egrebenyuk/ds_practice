@@ -4,18 +4,18 @@
 
 
 ### compile
-javac WordCount.java
+<code>javac WordCount.java</code>
 
 ### create jar (http://www.skylit.com/javamethods/faqs/createjar.html):
-jar cvfe WordCount.jar WordCount *.class
+<code>jar cvfe WordCount.jar WordCount *.class</code>
 
 ### upload
-hadoop fs -copyFromLocal book.txt hdfs:/input
-hadoop fs -ls hdfs:/input
+<code>hadoop fs -copyFromLocal book.txt hdfs:/input</code>
+<code>hadoop fs -ls hdfs:/input</code>
 
 ### count
-hadoop jar WordCount.jar hdfs:/input hdfs:/output
-hadoop fs -ls hdfs:/output
+<code>hadoop jar WordCount.jar hdfs:/input hdfs:/output</code>
+<code>hadoop fs -ls hdfs:/output</code>
 
 ### download result
-hadoop fs -copyToLocal hdfs:/output/part-00000 
+<code>hadoop fs -copyToLocal hdfs:/output/part-00000</code>
