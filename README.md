@@ -5,7 +5,7 @@
 Welcome to repository for Data Science Practice meetup (Boston).
 
 Data science-enthusiasts, data science-wannabes and everyone who is interested:
-<br>Join and have some fun working together on Python-based data science projects! Choose your own favorite project and get support from others who are passionate about data science. 
+<br>Join and have some fun working together on data science projects! Choose your own favorite project and get support from others who are passionate about data science. 
 <p>So, let's get started! Fork the project and contribute with your own project ideas, and/or send us pull requests to improve the existing projects!
 
 
